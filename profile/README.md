@@ -3,8 +3,6 @@
 </p>
 
 
-**Machine Learning for Vehicle Routing Problems**
-
 MAEnvs4VRP is an open research community exploring the intersection of Machine Learning and combinatorial logistics. We develop environments, algorithms, and benchmarks that leverage Neural Combinatorial Optimization to solve Vehicle Routing Problems (VRPs).
 
 ## Contributing
