@@ -7,4 +7,4 @@ MAEnvs4VRP is an open research community exploring the intersection of Machine L
 
 ## Contributing
 
-We welcome contributions from researchers, students, and practitioners interested in routing, logistics, reinforcement learning, and optimization.
+We welcome contributions from researchers, students, practitioners, and industry partners working on routing, logistics, machine learning, and optimization. Our goal is to foster collaboration between academia and industry to advance intelligent decision-making for real-world logistics applications.
